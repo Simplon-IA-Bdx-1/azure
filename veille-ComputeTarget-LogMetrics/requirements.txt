@@ -1,0 +1,9 @@
+matplotlib
+rise
+jupyter_contrib_nbextensions
+ipynb
+seaborn
+xgboost
+mylib==0.0.1
+scikit-learn==0.21.3
+azureml
